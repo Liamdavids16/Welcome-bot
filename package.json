@@ -1,0 +1,22 @@
+{
+  "name": "welkombot",
+  "version": "1.0.0",
+  "description": "Welkom bot gemaakt door liamdavids16.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "HSM-Leaks",
+    "Liamdavids16.",
+    "custom",
+    "locked"
+  ],
+  "author": "liamdavids16.",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "js-yaml": "^4.1.0"
+  }
+}
