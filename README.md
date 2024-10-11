@@ -1,26 +1,41 @@
-Installing
+# Discord Bot
 
-Open a terminal in your bot's folder and type the following command:
-npm install 
+A customizable Discord bot with various features.
 
-Setup
+## Installation
 
-Open the config.yml file and make the following changes:
-- Change the bot token to your bot's token.
-- Change the application ID to your bot's application ID.  
-- Set the bot's status to your preference.
-- Set the welcome channel ID.
-- Customize the embedded messages to your liking.
+1. Open a terminal in your bot's folder.
+2. Run the following command:
+   
+   npm install
+   
 
-Starting
+## Setup
 
-In the same terminal as above or in a new one, use the command:
+1. Open the `config.yml` file.
+2. Make the following changes:
+   - Set the bot token to your bot's token.
+   - Set the application ID to your bot's application ID.
+   - Configure the bot's status to your preference.
+   - Set the welcome channel ID.
+   - Customize the embedded messages as desired.
+
+## Starting the Bot
+
+In the terminal, use the following command:
+
 node index.js
 
-No watermark
 
-Send me a DM on liamdavids16. to remove the watermark. The cost is €5, or €10 for the open-source version.
+## Important Notes
 
-Attention
+- Do not change any file or folder names, as this may cause the bot to malfunction.
+- The bot includes a watermark. To remove it, please contact the developer.
 
-Do not change any file or folder names, as this may cause the bot to malfunction.
+## Support
+
+For any questions or issues, please open an issue on this GitHub repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
