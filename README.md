@@ -1,6 +1,6 @@
 # Discord Bot
 
-A customizable Discord bot with various features.
+A Welcome Discord bot with various features.
 
 ## Installation
 
