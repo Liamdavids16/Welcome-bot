@@ -35,7 +35,3 @@ node index.js
 ## Support
 
 For any questions or issues, please open an issue on this GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
